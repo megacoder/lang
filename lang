@@ -1,0 +1,3 @@
+#!/bin/zsh
+export	LANG=$(basename $0)
+exec $@
